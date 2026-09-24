@@ -15,7 +15,7 @@ Automated ETL pipeline using Python, Google Gemini, SQL Server, and Power BI to 
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Power BI Dashboard](#-power-bi-dashboard)
-- [Author](#-author)
+- [Future Scope](#-future-scope)
 
 ---
 
