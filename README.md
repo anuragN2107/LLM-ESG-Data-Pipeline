@@ -4,7 +4,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Selenium](https://shields.io)
+![Selenium](https://img.shields.io/badge/Selenium-4EAA25?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 Automated ETL pipeline using Python, Google Gemini, SQL Server, and Power BI to extract and visualize corporate ESG metrics.
