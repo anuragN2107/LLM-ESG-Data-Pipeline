@@ -52,3 +52,11 @@ This project solves the manual, error-prone process of ESG data collection by en
  ┣ 📜 ESG_Pipelines.sql  # T-SQL script for database and table creation
  ┣ 📜 ESG_Dashboard.pbix # Power BI semantic model and executive dashboard
  ┗ 📜 README.md          # Project documentation
+```
+
+---
+## 🚀 Future Scope
+* **PDF Ingestion Engine:** Expand the Selenium scraper to download and parse multi-page PDF sustainability reports using `PyMuPDF` and chunked LLM processing.
+* **Pipeline Orchestration:** Implement **Apache Airflow** to schedule and monitor the ETL jobs for automated quarterly runs.
+* **Cloud Migration:** Transition the on-premise Microsoft SQL Server warehouse to **Azure SQL Database** for enhanced scalability.
+* **Predictive Forecasting:** Integrate Scikit-Learn to model emissions trajectories and forecast estimated "Net Zero" achievement dates per company.
